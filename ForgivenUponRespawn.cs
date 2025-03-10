@@ -10,7 +10,7 @@ using System.Collections.Generic;
 namespace Oxide.Plugins
 {
     [Info("Forgiven Upon Respawn", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Players are no longer hostile after they respawn.")]
     public class ForgivenUponRespawn : RustPlugin
     {
         #region Fields
